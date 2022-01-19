@@ -1,7 +1,7 @@
 <h3> Oi, eu sou o Marlon 👋 </h3>
 
-🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Faculdade Dom Bosco
-<br>🔭 Atualmente faço estágio na Forttiori IT.
+🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Faculdade Dom Bosco(3° Semestre)
+<br>🔭 faço estágio de desenvolvimento na Forttiori IT.
 <br><br>
 <div>
   <a href="https://github.com/MarlonDaSilvaMartins">
