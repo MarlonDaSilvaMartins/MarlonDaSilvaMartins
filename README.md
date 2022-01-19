@@ -11,7 +11,7 @@
 <br>
 <h3>Contato</h3>
 📫 marlon673@hotmail.com<br>
-<a href="linkedin.com/in/marlon-da-silva-martins">
+<a href="www.linkedin.com/in/marlon-da-silva-martins">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="65" target="_blank"/>
 </a>  
 <!--
