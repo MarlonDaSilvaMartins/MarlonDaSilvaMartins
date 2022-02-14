@@ -2,7 +2,7 @@
 
 :mortar_board: Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Faculdade Dom Bosco(3° Semestre).
 <br>:computer: Atualmente faço estágio de desenvolvimento na Forttiori IT.
-<br>:open_book: Estou estudando Java 8 e 9, Spring Boot e HTTP.
+<br>:open_book: Estou estudando Java, Spring Boot e HTTP.
 <br><br>
 <div>
   <a href="https://github.com/MarlonDaSilvaMartins">
