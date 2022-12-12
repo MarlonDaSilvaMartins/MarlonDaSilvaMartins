@@ -3,7 +3,7 @@
 :computer: I'm backend software developer at Grupo Dimed.
 <br>:mortar_board: Studant of Systems Analysis and Development at Dom Bosco Porto Alegre.
 <br>:open_book: Learning Angular to apply as Fullstack.
-<br>:white_check_mark: Skills: Spring Webflux, Spring MVC, MongoDb, SQL, Kafka, 
+<br>:white_check_mark: Skills: Spring Webflux, Spring MVC, MongoDB, SQL, Kafka
 <br><br>
 <div>
   <a href="https://github.com/MarlonDaSilvaMartins">
