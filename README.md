@@ -1,9 +1,10 @@
 <h3> Hi, I am Marlon 👋 </h3>
 
-:computer: I'm backend software developer at Grupo Dimed.
-<br>:mortar_board: Studant of Systems Analysis and Development at Dom Bosco Porto Alegre.
+:computer: I'm backend software developer at Forttiori IT.
+<br>:mortar_board: Studant of Information Systems at Faculdade Dom Bosco Porto Alegre.
+<br>:mortar_board: Graduated Systems Analysis and Development at Faculdade Dom Bosco Porto Alegre.
 <br>:open_book: Learning Angular to apply as Fullstack.
-<br>:white_check_mark: Skills: Spring Webflux, Spring MVC, MongoDB, SQL, Kafka
+<br>:white_check_mark: Skills: Spring Webflux, Spring MVC, MongoDB, SQL, Kafka, GraphQL, PostgreSQL.
 <br><br>
 <div>
   <a href="https://github.com/MarlonDaSilvaMartins">
